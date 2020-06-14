@@ -19,3 +19,4 @@ Although we expected to build an open-source community,but forcing everything op
 So you can write mods based on BDX with ANY open-source license or even dont publish your source code.
 but if you modified the framework,or write a new framework based on this framework,you NEED to open-source it.
 
+基岩X-ikg
